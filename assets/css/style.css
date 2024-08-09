@@ -919,6 +919,8 @@ main {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
+  text-decoration: underline;
+  text-decoration-color: soli rgb(255, 255, 255);
 }
 
 /**
